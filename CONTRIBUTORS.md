@@ -2,6 +2,8 @@
 
 -[@maieuldelpino](https://github.com/maieuldelpino)
 
+-[@sid1527](https://github.com/sid1527)
+
 -[@vladimircreative](https://github.com/vladimircreative)
 
 -[@crypt0nate](https://github.com/crypt0nate)
